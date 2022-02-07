@@ -1,5 +1,3 @@
-<img src="https://imgur.com/7PXerRQ" width="30px">
-
 # Hi! 👋 I'm José Lira.
 
 
