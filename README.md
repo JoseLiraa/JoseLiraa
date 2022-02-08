@@ -11,6 +11,6 @@
 
 #### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Bootcamp-CoreCode&show_owner=true)](https://github.com/JoseLiraa/Bootcamp-CoreCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Pokedex&show_owner=true)](https://github.com/JoseLiraa/Pokedex) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Bootcamp-CoreCode&show_owner=true&theme=merko)](https://github.com/JoseLiraa/Bootcamp-CoreCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Pokedex&show_owner=true)](https://github.com/JoseLiraa/Pokedex) |
 | ------------- | ------------- |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Guia6DPSAgenciaVacaciones&show_owner=true)](https://github.com/JoseLiraa/Guia6DPSAgenciaVacaciones) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Parcial2-DPS-Ejercicio1&show_owner=true)](https://github.com/JoseLiraa/Parcial2-DPS-Ejercicio1) |
