@@ -13,4 +13,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Bootcamp-CoreCode&show_owner=true)](https://github.com/JoseLiraa/Bootcamp-CoreCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Pokedex&show_owner=true)](https://github.com/JoseLiraa/Pokedex) |
 | ------------- | ------------- |
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseLiraa&repo=Proyecto_DPS&show_owner=true)](https://github.com/JoseLiraa/Proyecto_DPS)
