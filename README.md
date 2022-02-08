@@ -8,7 +8,7 @@
 
 ### Get in touch:
 <a href="https://www.linkedin.com/in/josemoralesl/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <br> <br> 
 
   <!---
