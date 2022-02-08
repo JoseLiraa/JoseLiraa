@@ -15,7 +15,7 @@
  This is a comment
  ![](https://visitor-badge.glitch.me/badge?page_id=JoseLiraa.JoseLiraa)
 --->
-| ------------- | ------------- |
+| -------------|
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=dark&hide=contribs,prs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLiraa&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
 
