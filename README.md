@@ -15,4 +15,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=dark&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=dark&hide=contribs,prs,issues,starts)
