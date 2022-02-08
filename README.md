@@ -6,14 +6,5 @@
 - 📱💻🚀 I’m looking forward to grow as a developer, building solutions for mobile apps and web applications.
 - 🌱 I’m currently learning Android Studio with Java.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=merko&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=merko&hide=contribs,prs"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
-  
-  
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseLiraa&show_icons=true&theme=merko&hide=contribs,prs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLiraa&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
