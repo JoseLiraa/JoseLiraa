@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning Android Studio with Java.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JoseLiraa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLiraa)](https://github.com/anuraghazra/github-readme-stats)
