@@ -6,7 +6,7 @@
 - 📱💻🚀 I’m looking forward to grow as a developer, building solutions for mobile apps and web applications.
 - 🌱 I’m currently learning Android Studio with Java.
 
-## Get in touch:
+### Get in touch:
 <a href="https://www.linkedin.com/in/josemoralesl/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   <br> <br> 
