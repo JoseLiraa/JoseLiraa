@@ -2,9 +2,7 @@
 
 
 ### 🕵 A little bit about me:
-
-- 📱💻🚀 I’m looking forward to grow as a developer, building solutions for mobile apps and web applications.
-- 🌱 I’m currently learning Android Studio with Java.
+- 🌱 I’m currently learning Android Studio with Kotlin.
 
 ### Get in touch:
 <a href="https://www.linkedin.com/in/josemoralesl/">
